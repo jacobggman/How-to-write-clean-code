@@ -3,7 +3,7 @@ This is a guideline for how to write a clean and scalable code
 
 ## First Learn This
 
-### KISS And DRY Principles
+### KISS and DRY Principles
 
 Keep It Simple, Stupid - Will you in a year or other programmer can read the code and understand the logic and what is done?
 
@@ -25,7 +25,7 @@ D ependency inversion Principle - High-level and low-level classes should have A
 
 Software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design. Design patterns are formalized best practices that the programmer can use to solve common problems when designing an application or system
 
-### programming language
+### Programming Language
 
 Know the programming language you use in the project well, at least.
 
@@ -59,7 +59,7 @@ Do you think your project is organized well? the earlier you do it the best.
 ### Commenting
 The code need to be obvious. But still, commit static dependencies like class and functions and 'unnormal' section of code and design choices.
 
-## Commits And Branchs
+## Commits and Branchs
 
 ### Commit
 make commit when finish unit of work, changing or undoing exiting code.
@@ -67,9 +67,9 @@ make commit when finish unit of work, changing or undoing exiting code.
 ### Branch
 make new branch when doing development work that is somewhat experimental in nature.
 
-## Use Websites And Tools Like
+## Use Websites and Tools Like
 
-### guideline of the used programming language in your project
+### Guideline of the used programming language in your project
 
 ### Linter and Static Analysis 
 
