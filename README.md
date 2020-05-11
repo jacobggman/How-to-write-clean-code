@@ -37,13 +37,21 @@ Know the programming language you use in the project well, at least.
 
 ### Think ahead how you will make and design this project, write it down if it help you.
 
+## Code Writing Cycle
+
+### Plan
+Think how you solve the problem and make the code clear and one direction. Use design patterns, and principles.
+### Dev
+Have fun and Try to implement the new code.
+### Test
+Test if the code behaves like intended.
+### Clean
+Clean bugs, refactor, add comments, spelling check, naming and so on. Make sure that your code is quality.
+
 ## While Writing
 
 ### No Overlaping
 Names and concepts are good. Not the same name for different stuff. Be specific with naming.
-
-### Good Dependency
-Make them clear and one direction. Use design patterns, and principles.
 
 ### Organize Well
 Do you think your project is organized well? the earlier you do it the best.
