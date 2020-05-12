@@ -46,7 +46,7 @@ Have fun and Try to implement the new code.
 ### Test
 Test if the code behaves like intended.
 ### Clean
-Clean bugs, refactor, add comments, spelling check, naming and so on. Make sure that your code is quality.
+Clean bugs, refactor, add comments, unit testing, spelling check, naming and so on. Make sure that your code is quality. Leave the code base cleaner than before.
 
 ## While Writing
 
