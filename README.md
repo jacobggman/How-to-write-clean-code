@@ -57,7 +57,7 @@ Names and concepts are good. Not the same name for different stuff. Be specific 
 Do you think your project is organized well? the earlier you do it the best.
 
 ### Commenting
-Comments should not replace clean code. The code need to be obvious like it don't have documented and documents should be like the user don't have the code source, be many times the user is really don't going to read it. Commit at least static dependencies like class and functions and 'unnormal' section of code and design choices.
+Comments should not replace clean code. The code need to be obvious like it don't have been documented and documents should be like the user don't have the code source, be many times the user is not really reading the code. Commit at least static dependencies like class and functions and 'unnormal' section of code and design choices.
 
 ## Commits and Branchs
 
